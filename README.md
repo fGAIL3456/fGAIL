@@ -1,5 +1,5 @@
 # fGAIL
-This repository contains codes for the project of f-GAIL. The f-GAIL implementation can be found in 
+This repository contains codes for the project of f-GAIL. Please find the paper at (https://arxiv.org/abs/2010.01207). The f-GAIL implementation can be found in 
 ```
 a2c_ppo_acktr/algo/fgail.py
 ```
